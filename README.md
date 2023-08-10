@@ -2,6 +2,7 @@
 
 # Advanced Java Project: Object-Oriented Programming Practice
 <img src="https://github.com/barcelonaw/OOP/assets/79105522/a2e46f1b-a64d-4099-a1dc-6b3d12ae2356" alt="My Image" width="1920"/>
+
 ## Project Highlights
 
 Welcome to the Advanced Java Project repository. This project is designed to provide an immersive learning experience in Object-Oriented Programming (OOP) using the Java programming language. The project is built upon the robust CodeNameOne framework, which ensures seamless execution across various platforms for CSUS Project
